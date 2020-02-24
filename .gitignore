@@ -2,4 +2,7 @@
 WinForms/bin/
 WinForms/obj/
 WinForms/.vs/
+WinForms/*/bin/
+WinForms/*/obj/
+WinForms/*/.vs/
 
