@@ -1,0 +1,10 @@
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\obj\Debug\CalculatorEngine.csprojAssemblyReference.cache
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
+C:\Users\anba0319\Documents\Visual Studio Projects\Starter_Calc\Starter_Calc\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+C:\Users\anba0319\Documents\Visual Studio Projects\Starter_Calc\Starter_Calc\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+C:\Users\anba0319\Documents\Visual Studio Projects\Starter_Calc\Starter_Calc\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+C:\Users\anba0319\Documents\Visual Studio Projects\Starter_Calc\Starter_Calc\CalculatorEngine\obj\Debug\CalculatorEngine.pdb

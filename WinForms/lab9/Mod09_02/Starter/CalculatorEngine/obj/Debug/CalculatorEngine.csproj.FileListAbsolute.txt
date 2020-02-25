@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Practices\Mod09\Mod09_02\Starter\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Practices\Mod09\Mod09_02\Starter\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Practices\Mod09\Mod09_02\Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csprojAssemblyReference.cache
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Practices\Mod09\Mod09_02\Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Practices\Mod09\Mod09_02\Starter\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Practices\Mod09\Mod09_02\Starter\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
