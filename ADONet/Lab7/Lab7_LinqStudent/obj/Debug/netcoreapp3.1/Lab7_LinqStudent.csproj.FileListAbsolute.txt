@@ -1,0 +1,11 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\ADONet\Lab7\Lab7_LinqStudent\bin\Debug\netcoreapp3.1\Lab7_LinqStudent.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\ADONet\Lab7\Lab7_LinqStudent\bin\Debug\netcoreapp3.1\Lab7_LinqStudent.deps.json
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\ADONet\Lab7\Lab7_LinqStudent\bin\Debug\netcoreapp3.1\Lab7_LinqStudent.runtimeconfig.json
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\ADONet\Lab7\Lab7_LinqStudent\bin\Debug\netcoreapp3.1\Lab7_LinqStudent.runtimeconfig.dev.json
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\ADONet\Lab7\Lab7_LinqStudent\bin\Debug\netcoreapp3.1\Lab7_LinqStudent.dll
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\ADONet\Lab7\Lab7_LinqStudent\bin\Debug\netcoreapp3.1\Lab7_LinqStudent.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\ADONet\Lab7\Lab7_LinqStudent\obj\Debug\netcoreapp3.1\Lab7_LinqStudent.csprojAssemblyReference.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\ADONet\Lab7\Lab7_LinqStudent\obj\Debug\netcoreapp3.1\Lab7_LinqStudent.AssemblyInfoInputs.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\ADONet\Lab7\Lab7_LinqStudent\obj\Debug\netcoreapp3.1\Lab7_LinqStudent.AssemblyInfo.cs
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\ADONet\Lab7\Lab7_LinqStudent\obj\Debug\netcoreapp3.1\Lab7_LinqStudent.dll
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\ADONet\Lab7\Lab7_LinqStudent\obj\Debug\netcoreapp3.1\Lab7_LinqStudent.pdb
