@@ -1,0 +1,9 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_TestStandartDialog\TestStandartDialog\obj\Debug\Lab4_TestStandartDialog.csprojAssemblyReference.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Form1.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_TestStandartDialog\TestStandartDialog\obj\Debug\Lab4_TestStandartDialog.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.pdb

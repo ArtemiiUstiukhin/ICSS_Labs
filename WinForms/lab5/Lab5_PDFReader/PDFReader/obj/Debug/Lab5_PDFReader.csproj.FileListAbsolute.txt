@@ -1,0 +1,13 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_PDFReader\PDFReader\bin\Debug\PDFReader.exe.config
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_PDFReader\PDFReader\bin\Debug\PDFReader.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_PDFReader\PDFReader\bin\Debug\PDFReader.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_PDFReader\PDFReader\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_PDFReader\PDFReader\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_PDFReader\PDFReader\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_PDFReader\PDFReader\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_PDFReader\PDFReader\obj\Debug\Lab5_PDFReader.csproj.ResolveComReference.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_PDFReader\PDFReader\obj\Debug\PDFReader.Form1.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_PDFReader\PDFReader\obj\Debug\PDFReader.Properties.Resources.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_PDFReader\PDFReader\obj\Debug\Lab5_PDFReader.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_PDFReader\PDFReader\obj\Debug\PDFReader.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_PDFReader\PDFReader\obj\Debug\PDFReader.pdb

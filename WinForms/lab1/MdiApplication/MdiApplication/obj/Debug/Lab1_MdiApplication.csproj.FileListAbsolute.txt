@@ -1,0 +1,9 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe.config
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\MdiApplication\MdiApplication\bin\Debug\MdiApplication.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\MdiApplication\MdiApplication\obj\Debug\Lab1_MdiApplication.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\MdiApplication\MdiApplication\obj\Debug\MdiApplication.pdb

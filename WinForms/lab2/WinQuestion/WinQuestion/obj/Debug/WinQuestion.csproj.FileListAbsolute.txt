@@ -1,0 +1,9 @@
+C:\Users\Никита\source\repos\WinQuestion\WinQuestion\bin\Debug\WinQuestion.exe.config
+C:\Users\Никита\source\repos\WinQuestion\WinQuestion\bin\Debug\WinQuestion.exe
+C:\Users\Никита\source\repos\WinQuestion\WinQuestion\bin\Debug\WinQuestion.pdb
+C:\Users\Никита\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.Form1.resources
+C:\Users\Никита\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.Properties.Resources.resources
+C:\Users\Никита\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.exe
+C:\Users\Никита\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.pdb

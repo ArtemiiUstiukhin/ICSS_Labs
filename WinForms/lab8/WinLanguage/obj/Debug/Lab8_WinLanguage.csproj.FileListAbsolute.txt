@@ -1,0 +1,11 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab8\WinLanguage\bin\Debug\WinLanguage.exe.config
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab8\WinLanguage\bin\Debug\WinLanguage.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab8\WinLanguage\bin\Debug\WinLanguage.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab8\WinLanguage\bin\Debug\ru-RU\WinLanguage.resources.dll
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab8\WinLanguage\obj\Debug\WinLanguage.Form1.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab8\WinLanguage\obj\Debug\WinLanguage.Properties.Resources.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab8\WinLanguage\obj\Debug\WinLanguage.Form1.ru-RU.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab8\WinLanguage\obj\Debug\Lab8_WinLanguage.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab8\WinLanguage\obj\Debug\ru-RU\WinLanguage.resources.dll
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab8\WinLanguage\obj\Debug\WinLanguage.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab8\WinLanguage\obj\Debug\WinLanguage.pdb

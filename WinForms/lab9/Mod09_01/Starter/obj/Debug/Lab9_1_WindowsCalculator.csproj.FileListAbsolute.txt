@@ -1,0 +1,11 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab9\Mod09_01\Starter\bin\Debug\WindowsCalculator.exe.config
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab9\Mod09_01\Starter\bin\Debug\WindowsCalculator.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab9\Mod09_01\Starter\bin\Debug\WindowsCalculator.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab9\Mod09_01\Starter\bin\Debug\CalculatorEngine.dll
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab9\Mod09_01\Starter\bin\Debug\CalculatorEngine.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab9\Mod09_01\Starter\obj\Debug\Lab9_1_WindowsCalculator.csprojAssemblyReference.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab9\Mod09_01\Starter\obj\Debug\SimpleCalculator.CalcUI.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab9\Mod09_01\Starter\obj\Debug\Lab9_1_WindowsCalculator.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab9\Mod09_01\Starter\obj\Debug\Lab9_1_WindowsCalculator.csproj.CopyComplete
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab9\Mod09_01\Starter\obj\Debug\WindowsCalculator.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab9\Mod09_01\Starter\obj\Debug\WindowsCalculator.pdb

@@ -1,0 +1,8 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\WindowsFormsLab1Ex5.1\WindowsFormsLab1Ex5.1\bin\Debug\WindowsFormsLab1Ex5.1.exe.config
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\WindowsFormsLab1Ex5.1\WindowsFormsLab1Ex5.1\bin\Debug\WindowsFormsLab1Ex5.1.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\WindowsFormsLab1Ex5.1\WindowsFormsLab1Ex5.1\bin\Debug\WindowsFormsLab1Ex5.1.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\WindowsFormsLab1Ex5.1\WindowsFormsLab1Ex5.1\obj\Debug\WindowsFormsLab1Ex5._1.Form1.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\WindowsFormsLab1Ex5.1\WindowsFormsLab1Ex5.1\obj\Debug\WindowsFormsLab1Ex5._1.Properties.Resources.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\WindowsFormsLab1Ex5.1\WindowsFormsLab1Ex5.1\obj\Debug\Lab1_WindowsFormsLab1Ex5.1.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\WindowsFormsLab1Ex5.1\WindowsFormsLab1Ex5.1\obj\Debug\WindowsFormsLab1Ex5.1.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab1\WindowsFormsLab1Ex5.1\WindowsFormsLab1Ex5.1\obj\Debug\WindowsFormsLab1Ex5.1.pdb

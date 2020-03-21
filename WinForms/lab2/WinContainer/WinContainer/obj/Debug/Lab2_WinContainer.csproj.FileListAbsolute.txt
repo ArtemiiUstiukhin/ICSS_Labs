@@ -1,0 +1,8 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinContainer\WinContainer\bin\Debug\WinContainer.exe.config
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinContainer\WinContainer\bin\Debug\WinContainer.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinContainer\WinContainer\bin\Debug\WinContainer.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinContainer\WinContainer\obj\Debug\WinContainer.Form1.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinContainer\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinContainer\WinContainer\obj\Debug\Lab2_WinContainer.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinContainer\WinContainer\obj\Debug\WinContainer.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinContainer\WinContainer\obj\Debug\WinContainer.pdb

@@ -1,0 +1,10 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_EditPerson\EditPerson\bin\Debug\EditPerson.exe.config
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_EditPerson\EditPerson\bin\Debug\EditPerson.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_EditPerson\EditPerson\bin\Debug\EditPerson.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_EditPerson\EditPerson\obj\Debug\Lab4_EditPerson.csprojAssemblyReference.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_EditPerson\EditPerson\obj\Debug\EditPerson.EditPersonForm.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_EditPerson\EditPerson\obj\Debug\EditPerson.Form1.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_EditPerson\EditPerson\obj\Debug\EditPerson.Properties.Resources.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_EditPerson\EditPerson\obj\Debug\Lab4_EditPerson.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_EditPerson\EditPerson\obj\Debug\EditPerson.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab4\Lab4_EditPerson\EditPerson\obj\Debug\EditPerson.pdb

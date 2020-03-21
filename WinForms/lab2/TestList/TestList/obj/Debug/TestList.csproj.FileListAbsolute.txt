@@ -1,0 +1,9 @@
+C:\Users\Никита\source\repos\TestList\TestList\bin\Debug\TestList.exe.config
+C:\Users\Никита\source\repos\TestList\TestList\bin\Debug\TestList.exe
+C:\Users\Никита\source\repos\TestList\TestList\bin\Debug\TestList.pdb
+C:\Users\Никита\source\repos\TestList\TestList\obj\Debug\TestList.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\TestList\TestList\obj\Debug\TestList.Form1.resources
+C:\Users\Никита\source\repos\TestList\TestList\obj\Debug\TestList.Properties.Resources.resources
+C:\Users\Никита\source\repos\TestList\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\TestList\TestList\obj\Debug\TestList.exe
+C:\Users\Никита\source\repos\TestList\TestList\obj\Debug\TestList.pdb

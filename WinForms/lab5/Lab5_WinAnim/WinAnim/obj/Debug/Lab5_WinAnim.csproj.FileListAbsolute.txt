@@ -1,0 +1,8 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_WinAnim\WinAnim\bin\Debug\WinAnim.exe.config
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_WinAnim\WinAnim\bin\Debug\WinAnim.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_WinAnim\WinAnim\bin\Debug\WinAnim.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_WinAnim\WinAnim\obj\Debug\WinAnim.Form1.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_WinAnim\WinAnim\obj\Debug\WinAnim.Properties.Resources.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_WinAnim\WinAnim\obj\Debug\Lab5_WinAnim.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_WinAnim\WinAnim\obj\Debug\WinAnim.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab5\Lab5_WinAnim\WinAnim\obj\Debug\WinAnim.pdb

@@ -1,0 +1,6 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinTimer1\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.dll
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinTimer1\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinTimer1\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.UserControl1.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinTimer1\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinTimer1\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.dll
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\WinTimer1\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.pdb

@@ -1,0 +1,13 @@
+C:\Users\Никита\source\repos\WinTimer2\UserControlTimer2\bin\Debug\netcoreapp3.1\UserControlTimer2.deps.json
+C:\Users\Никита\source\repos\WinTimer2\UserControlTimer2\bin\Debug\netcoreapp3.1\UserControlTimer2.dll
+C:\Users\Никита\source\repos\WinTimer2\UserControlTimer2\bin\Debug\netcoreapp3.1\UserControlTimer2.pdb
+C:\Users\Никита\source\repos\WinTimer2\UserControlTimer2\obj\Debug\netcoreapp3.1\UserControlTimer2.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\WinTimer2\UserControlTimer2\obj\Debug\netcoreapp3.1\UserControl1.g.cs
+C:\Users\Никита\source\repos\WinTimer2\UserControlTimer2\obj\Debug\netcoreapp3.1\UserControlTimer2_MarkupCompile.cache
+C:\Users\Никита\source\repos\WinTimer2\UserControlTimer2\obj\Debug\netcoreapp3.1\UserControlTimer2_MarkupCompile.lref
+C:\Users\Никита\source\repos\WinTimer2\UserControlTimer2\obj\Debug\netcoreapp3.1\UserControl1.baml
+C:\Users\Никита\source\repos\WinTimer2\UserControlTimer2\obj\Debug\netcoreapp3.1\UserControlTimer2.g.resources
+C:\Users\Никита\source\repos\WinTimer2\UserControlTimer2\obj\Debug\netcoreapp3.1\UserControlTimer2.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\WinTimer2\UserControlTimer2\obj\Debug\netcoreapp3.1\UserControlTimer2.AssemblyInfo.cs
+C:\Users\Никита\source\repos\WinTimer2\UserControlTimer2\obj\Debug\netcoreapp3.1\UserControlTimer2.dll
+C:\Users\Никита\source\repos\WinTimer2\UserControlTimer2\obj\Debug\netcoreapp3.1\UserControlTimer2.pdb

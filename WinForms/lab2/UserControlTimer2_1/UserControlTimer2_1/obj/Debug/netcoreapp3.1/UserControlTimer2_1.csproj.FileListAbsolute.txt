@@ -1,0 +1,13 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\UserControlTimer2_1\UserControlTimer2_1\bin\Debug\netcoreapp3.1\UserControlTimer2_1.deps.json
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\UserControlTimer2_1\UserControlTimer2_1\bin\Debug\netcoreapp3.1\UserControlTimer2_1.dll
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\UserControlTimer2_1\UserControlTimer2_1\bin\Debug\netcoreapp3.1\UserControlTimer2_1.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\UserControlTimer2_1\UserControlTimer2_1\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\UserControlTimer2_1\UserControlTimer2_1\obj\Debug\netcoreapp3.1\UserControlTimer2_1_MarkupCompile.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\UserControlTimer2_1\UserControlTimer2_1\obj\Debug\netcoreapp3.1\UserControlTimer2_1_MarkupCompile.lref
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\UserControlTimer2_1\UserControlTimer2_1\obj\Debug\netcoreapp3.1\Themes\Generic.baml
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\UserControlTimer2_1\UserControlTimer2_1\obj\Debug\netcoreapp3.1\UserControlTimer2_1.g.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\UserControlTimer2_1\UserControlTimer2_1\obj\Debug\netcoreapp3.1\UserControlTimer2_1.AssemblyInfoInputs.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\UserControlTimer2_1\UserControlTimer2_1\obj\Debug\netcoreapp3.1\UserControlTimer2_1.AssemblyInfo.cs
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\UserControlTimer2_1\UserControlTimer2_1\obj\Debug\netcoreapp3.1\UserControlTimer2_1.dll
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\UserControlTimer2_1\UserControlTimer2_1\obj\Debug\netcoreapp3.1\UserControlTimer2_1.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab2\UserControlTimer2_1\UserControlTimer2_1\obj\Debug\netcoreapp3.1\UserControlTimer2_1.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Никита\source\repos\Exes4\Exes4\bin\Debug\Exes4.exe.config
+C:\Users\Никита\source\repos\Exes4\Exes4\bin\Debug\Exes4.exe
+C:\Users\Никита\source\repos\Exes4\Exes4\bin\Debug\Exes4.pdb
+C:\Users\Никита\source\repos\Exes4\Exes4\obj\Debug\Exes4.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\Exes4\Exes4\obj\Debug\Exes4.Component1.resources
+C:\Users\Никита\source\repos\Exes4\Exes4\obj\Debug\Exes4.Properties.Resources.resources
+C:\Users\Никита\source\repos\Exes4\Exes4\obj\Debug\Exes4.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\Exes4\Exes4\obj\Debug\Exes4.exe
+C:\Users\Никита\source\repos\Exes4\Exes4\obj\Debug\Exes4.pdb
+C:\Users\Никита\source\repos\Exes4\Exes4\obj\Debug\Exes4.Form1.resources
