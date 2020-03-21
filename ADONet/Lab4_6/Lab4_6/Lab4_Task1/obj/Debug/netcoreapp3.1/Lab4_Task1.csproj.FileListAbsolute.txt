@@ -1,0 +1,17 @@
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\obj\Debug\netcoreapp3.1\Lab4_Task1.AssemblyInfoInputs.cache
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\obj\Debug\netcoreapp3.1\Lab4_Task1.AssemblyInfo.cs
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\bin\Debug\netcoreapp3.1\Lab4_Task1.exe
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\bin\Debug\netcoreapp3.1\Lab4_Task1.deps.json
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\bin\Debug\netcoreapp3.1\Lab4_Task1.runtimeconfig.json
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\bin\Debug\netcoreapp3.1\Lab4_Task1.runtimeconfig.dev.json
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\bin\Debug\netcoreapp3.1\Lab4_Task1.dll
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\bin\Debug\netcoreapp3.1\Lab4_Task1.pdb
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\obj\Debug\netcoreapp3.1\Lab4_Task1.csproj.CopyComplete
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\obj\Debug\netcoreapp3.1\Lab4_Task1.dll
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task1\obj\Debug\netcoreapp3.1\Lab4_Task1.pdb

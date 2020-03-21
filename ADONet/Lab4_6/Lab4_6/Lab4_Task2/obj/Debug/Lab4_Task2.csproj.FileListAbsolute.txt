@@ -1,0 +1,9 @@
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task2\bin\Debug\Lab4_Task2.exe.config
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task2\bin\Debug\Lab4_Task2.exe
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task2\bin\Debug\Lab4_Task2.pdb
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task2\obj\Debug\Lab4_Task2.csprojAssemblyReference.cache
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task2\obj\Debug\Lab4_Task2.Form1.resources
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task2\obj\Debug\Lab4_Task2.Properties.Resources.resources
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task2\obj\Debug\Lab4_Task2.csproj.GenerateResource.cache
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task2\obj\Debug\Lab4_Task2.exe
+E:\study\Vault\Semester_8\КП\ADO\ADO.NET\Lab4_6\Lab4_6\Lab4_Task2\obj\Debug\Lab4_Task2.pdb
